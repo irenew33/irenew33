@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi I'm Irene. I am working on developing an app to promote use of data science in the design, monitoring and evaluation of international development programs. I am a data science student, working on my second master's degree. Bear with me, I will be posting more soon.
 
 <!--
 **irenew33/irenew33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
